@@ -1,0 +1,32 @@
+.form {
+  border: 1px solid gray;
+  margin-left: 30%;
+  margin-right: 30%;
+  height: 300%;
+}
+.file {
+  border: 1px solid gray;
+  display: block;
+  width: 88%;
+  margin-left: 5%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+}
+.author {
+  margin-right: 23%;
+  margin-left: 5%;
+}
+.des {
+  margin-top: 3%;
+  display: block;
+  width: 87%;
+  margin-left: 5%;
+}
+.btn {
+  display: block;
+  margin-top: 3%;
+  margin-left: 40%;
+  margin-bottom: 2%;
+  padding: 2%;
+  width: 20%;
+}

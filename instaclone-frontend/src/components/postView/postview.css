@@ -1,0 +1,45 @@
+
+.parent-post {
+  margin-bottom: 4vh;
+  margin-left: 35vw;
+  margin-right: 35vw;
+  border-top: 1px solid rgb(190, 190, 190);
+  border-bottom: 1px solid rgb(190, 190, 190);
+}
+
+.dots {
+  float: right;
+  margin-right: 1vw;
+  margin-top: -6vh;
+}
+.name {
+  margin-top: 1vh;
+  margin-left: 1vw;
+}
+.location {
+  margin-left: 1vw;
+  margin-bottom: 1.5vh;
+  color: gray;
+}
+.postimg {
+  margin-bottom: 1vh;
+}
+.icons {
+  display: inline;
+  margin: 1vh 1vw;
+}
+.date {
+  float: right;
+  color: grey;
+  margin-right: 1vw;
+  font-size: small;
+}
+.likes {
+  color: grey;
+  margin-left: 1vw;
+  font-size: small;
+}
+.description {
+  margin-left: 1vw;
+  margin-bottom: 4vh;
+}

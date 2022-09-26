@@ -1,0 +1,27 @@
+.landing {
+  box-sizing: border-box;
+}
+.landingimg {
+  height: 93vh;
+  width: 40vw;
+  margin-top: 2vh;
+  margin-left: 5vw;
+}
+.routeheading {
+  float: right;
+  margin-right: 23vw;
+  margin-top: 25vh;
+  font-size: 30px;
+  color: green;
+}
+.routebutton {
+  float: right;
+  margin: -60vh 26vw;
+  font-size: 30px;
+  color: green;
+  border: 1px solid green;
+  border-radius: 10px;
+  border-color: green;
+  text-decoration: none;
+  padding: 1px 10px;
+}
